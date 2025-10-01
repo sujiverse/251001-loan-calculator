@@ -549,4 +549,4 @@ const _style = `
 .input { @apply bg-white border rounded-xl px-3 py-2 outline-none focus:ring-2 focus:ring-indigo-200; }
 .btn { @apply inline-flex items-center gap-2 px-3 py-2 rounded-2xl bg-indigo-600 text-white hover:bg-indigo-700 shadow; }
 .icon-btn { @apply p-2 rounded-xl bg-gray-100 hover:bg-gray-200 border; }
-`;}]}
+`;
